@@ -6,7 +6,8 @@
 ### superglue
 - Did you use superglue or plastic cement?
 
-
+### steward
+- I'm a poor system resource steward.
 
 ## Link
 - [Do people say](https://dopeoplesay.com/)
