@@ -2,6 +2,9 @@
 ### pretty sure
 - I'm pretty sure it's happened before.
 - I was pretty sure of finishing the job.
+
+### refrain
+- Please refrain from talking.
  
 ### superglue
 - Did you use superglue or plastic cement?
